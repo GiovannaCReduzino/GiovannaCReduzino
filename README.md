@@ -3,7 +3,6 @@
 ### 📝 Sobre mim:
 
 Eu sou a Giovanna, tenho 19 anos e estou cursando "Desenvolvimeto de Software Multiplataforma" na Fatec Indaiatuba. 
-
 Utilizo o github como portifólio para códigos, projetos e estudos!
 
 Link para acessar meu Github: 
