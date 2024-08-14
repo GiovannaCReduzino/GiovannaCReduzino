@@ -1,15 +1,15 @@
 ## Olá! Seja bem-vindo ao meu Github.
 
-### 📝 Sobre mim:
+### 📝 About me:
 
-Eu sou a Giovanna, tenho 19 anos e estou cursando "Desenvolvimeto de Software Multiplataforma" na Fatec Indaiatuba. 
-Utilizo o github como portifólio para códigos, projetos e estudos!
+Eu sou a Giovanna, tenho 19 anos e estou cursando "Desenvolvimeto de Software Multiplataforma" na Fatec-Indaiatuba. 
+Utilizo o Github como portifólio para códigos, projetos e estudos!
 
-Link para acessar meu Github: 
+Link to acess my Github: 
 
 # [![GitHub](https://img.shields.io/badge/GitHub-GiovannaCReduzino-181717?style=for-the-badge&logo=github)](https://github.com/GiovannaCReduzino)
 
-### 🛠️ Minhas Habilidades:
+### 🛠️ Skills:
 
 <div style="display: inline_block"><br>
   
