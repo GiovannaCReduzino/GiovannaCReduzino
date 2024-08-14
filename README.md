@@ -20,7 +20,7 @@ Link Github:
   <img align="center" alt="" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
-  <img align="center" alt="" height="30" width="45" src="https://www.python.org/static/community_logos/python-powered-h-50x65.png" />
+  <img align="center" alt="" height="30" width="45" src="https://www.python.org/static/favicon.ico" />
 
 
 
