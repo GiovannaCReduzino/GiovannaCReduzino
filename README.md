@@ -1,4 +1,4 @@
-## Olá! Seja bem-vindo
+## Olá! Seja bem-vindo ao meu Github.
 
 ### 📝 Sobre mim:
 
@@ -9,7 +9,7 @@ Link para acessar meu Github:
 
 # [![GitHub](https://img.shields.io/badge/GitHub-GiovannaCReduzino-181717?style=for-the-badge&logo=github)](https://github.com/GiovannaCReduzino)
 
-### 🛠️ Habilidades:
+### 🛠️ Minhas Habilidades:
 
 <div style="display: inline_block"><br>
   
