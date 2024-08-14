@@ -20,22 +20,11 @@ Link Github:
   <img align="center" alt="" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
-  <img align="center" alt="" height="30" width="40" src="https://www.python.org/static/community_logos/python-logo.png" />
+  <img align="center" alt="" height="30" width="45" src="https://www.python.org/static/community_logos/python-logo.png" />
 
 
 </div>
 
 #
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaaMartins&hide_progress=true)- 👋 Hi, I’m @GiovannaCReduzino
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-GiovannaCReduzino/GiovannaCReduzino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaaMartins&hide_progress=true)- 
