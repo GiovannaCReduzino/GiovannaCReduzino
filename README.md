@@ -21,6 +21,7 @@ Link para acessar meu Github:
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
   <img align="center" alt="" height="30" width="30" src="https://www.python.org/static/favicon.ico" />
+  <img align="center" alt="" height="30" width="30" src="https://example.com/genially-icon.png" />
 
 </div>
 
