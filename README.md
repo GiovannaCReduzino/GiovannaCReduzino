@@ -2,7 +2,7 @@
 
 ### 📝 About me:
 
-Eu sou a Giovanna
+Eu sou a Giovanna.
 Utilizo o Github como portifólio para códigos, projetos e estudos!
 
 Link para acessar meu Github: 
